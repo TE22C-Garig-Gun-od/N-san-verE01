@@ -3,3 +3,12 @@
 }
 
 
+Console.WriteLine("Ange ditt användarnamn: ");
+
+user.name == Console.ReadLine();
+
+if (user.name == "kalleanka")
+{
+    Console.WriteLine("Welcome!");
+}
+
