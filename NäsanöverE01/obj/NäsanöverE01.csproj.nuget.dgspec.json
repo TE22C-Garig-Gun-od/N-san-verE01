@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj": {}
+    "c:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj": {
+    "c:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj",
+        "projectUniqueName": "c:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj",
         "projectName": "NäsanöverE01",
-        "projectPath": "C:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj",
+        "projectPath": "c:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\NäsanöverE01.csproj",
         "packagesPath": "C:\\Users\\Gunod.garig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\obj\\",
+        "outputPath": "c:\\Users\\Gunod.garig\\Documents\\prog2\\NäsanöverE01\\NäsanöverE01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

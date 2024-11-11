@@ -1,14 +1,20 @@
-﻿if (6 >= 3) {
-    Console.WriteLine("Hello, World!");
-}
+﻿//if (6 >= 3) {
+// Console.WriteLine("Hello, World!");
+//}
 
+
+using System.Numerics;
 
 Console.WriteLine("Ange ditt användarnamn: ");
 
-user.name == Console.ReadLine();
+string username = Console.ReadLine();
 
-if (user.name == "kalleanka")
+if (username == "kalleanka")
 {
     Console.WriteLine("Welcome!");
 }
+
+
+
+
 
