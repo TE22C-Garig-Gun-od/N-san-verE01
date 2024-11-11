@@ -3,18 +3,27 @@
 //}
 
 
-using System.Numerics;
+
 
 Console.WriteLine("Ange ditt användarnamn: ");
 
-string username = Console.ReadLine();
+Console.WriteLine("Ange ditt lösenord: ");
 
-if (username == "kalleanka")
+string username = Console.ReadLine();
+string password = Console.ReadLine();
+
+if (username == "kalleanka" && password == "12345")
 {
     Console.WriteLine("Welcome!");
 }
+else {
+    Console.WriteLine("Wrong username or password");
+}
+ // när det körs så skriv det inte ut
 
-
-
+int times = 32;
+while (times > 32) {
+    Console.WriteLine("Hello, World");
+}
 
 
