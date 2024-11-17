@@ -38,18 +38,32 @@
 // }
 
 
-for ( int i = 0; i < 5; i++)
-{
-    Console.WriteLine("Skriv in ditt tal: ");
+// for ( int i = 0; i < 5; i++)
+// {
+//     Console.WriteLine("Skriv in ditt tal: ");
+//     string tal = Console.ReadLine();
     
-    int number = int.TryParse
+//     int number = int.Parse(tal);
 
 
-    if (i > 5)
-    {
-        Console.WriteLine("Högre än 5!");
-    }
-}
+//     if (number > 5)
+//     {
+//         Console.WriteLine("Högre än 5!");
+//     }
+// }
+
+// string tal;
+// string number;
+
+// while {
+//     Console.WriteLine("Skriv in ditt heltal;");              fattade nada
+//     tal = Console.ReadLine();
+
+//     (int.TryParse(tal,))
+// }
 
 
-Console.ReadLine();
+Random random = new Random();
+
+int number = random.Next(1, 100);
+
